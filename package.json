@@ -1,0 +1,77 @@
+{
+  "name": "basic",
+  "displayName": "Basic Extensions",
+  "version": "1.0.0",
+  "description": "Basic extensions to improve your productivity.",
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "extension",
+    "pack",
+    "basic",
+    "common",
+    "popular"
+  ],
+  "homepage": "https://github.com/vspacks/basic",
+  "bugs": {
+    "url": "https://github.com/vspacks/basic/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vspacks/basic.git"
+  },
+  "license": "MIT",
+  "qna": "false",
+  "author": {
+    "name": "Visual Studio Packs Team"
+  },
+  "publisher": "packs",
+  "devDependencies": {
+    "prettier": "*",
+    "sort-package-json": "*"
+  },
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "alefragnani.bookmarks",
+    "cssho.vscode-svgviewer",
+    "davidanson.vscode-markdownlint",
+    "deerawan.vscode-faker",
+    "dotjoshjohnson.xml",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "foxundermoon.shell-format",
+    "fvclaus.sort-json-array",
+    "github.vscode-pull-request-github",
+    "gruntfuggly.todo-tree",
+    "ibm.output-colorizer",
+    "jsynowiec.vscode-insertdatestring",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-wsl",
+    "ms-vsliveshare.vsliveshare",
+    "ms-vsliveshare.vsliveshare-audio",
+    "naumovs.color-highlight",
+    "pflannery.vscode-versionlens",
+    "pkief.material-icon-theme",
+    "quicktype.quicktype",
+    "redhat.fabric8-analytics",
+    "redvanworkshop.explorer-exclude-vscode-extension",
+    "richie5um2.vscode-sort-json",
+    "streetsidesoftware.code-spell-checker",
+    "timonwong.shellcheck",
+    "tyriar.sort-lines",
+    "usernamehw.errorlens",
+    "viktorzetterstrom.non-breaking-space-highlighter",
+    "yzhang.markdown-all-in-one"
+  ],
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  }
+}
